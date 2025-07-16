@@ -13,7 +13,7 @@ make
 ## Запуск
 
 ```bash
-./make n r s [filename]
+./main n r s [filename]
 ```
 
 **Аргументы:**
